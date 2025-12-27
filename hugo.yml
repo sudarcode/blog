@@ -1,4 +1,4 @@
-baseurl: 'https://www.ardianta.com'
+baseurl: 'https://blog-ael.pages.dev/'
 title: Sudar Blogger
 theme: ardianta
 # disqusShortname: ardianta
@@ -17,9 +17,9 @@ params:
   email: web@ardianta.com
   description: 'Hello, saya Dian. Blog ini belum jadi. Sabar ya...'
   social:
-    github: https://github.com/ardianta
+    github: https://github.com/sudarcode
     linkedin: https://linkedin.com/in/ardianta
-    dribbble: https://dribbble.com/ardianta
+    instagram: https://instagram.com/20.22sh
 
 frontmatter:
   date:
