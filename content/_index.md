@@ -1,5 +1,5 @@
 ---
-title: "Ahmad Muhardian | Web Developer & Creator"
+title: "Sudar Blogger | Web Developer & Creator"
 date: 2018-01-25T20:12:09+08:00
 draft: false
 
