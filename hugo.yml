@@ -7,15 +7,15 @@ services:
   # googleAnalytics:
   #   ID: UA-80537197-1
   disqus:
-    shortname: ardianta
+    shortname: sudarmanto
 
 permalinks:
   page: '/:slug/'
 
 params:
-  author: Dian
+  author: Sudar
   email: web@ardianta.com
-  description: 'Hello, saya Dian. Blog ini belum jadi. Sabar ya...'
+  description: 'Hello, saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/sudarcode
     linkedin: https://linkedin.com/in/ardianta
