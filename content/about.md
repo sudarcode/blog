@@ -1,82 +1,38 @@
 ---
-title: "About Me"
+title: "Tentang Sudar Blogger"
 slug: about
-date: 2017-12-17T19:50:57+08:00
+date: 2025-12-28T07:05:57+08:00
 draft: false
 
 type: page
 
 image: "/img/about-me.jpg"
-description: "Hello, Saya Dian. Salam kenal!"
+description: "Hello, Saya Nauval Sudarmanto. Salam kenal semoga betah di blog ini!"
 ---
 
-Halo, salam kenal. 👋
+Perkenalkan Nama saya sudarmanto, atau orang memanggil saya sudar saya tinggal di pelosok desa di daerah lamongan yaitu Desa Kedungmentawar Kecamatan Ngimbang, Kabupaten Lamongan. Desa saya ini terletak di perbatasan Lamongan Jombang jadi kalau mau ke mana - mana atau mau beli apa lebih cepat ke jombang daripada lamongan kota. 
 
-Kamu bisa panggil saya Dian.
+## Mengenal Blogger
+Tentu bagi kalian blogger itu apa, gunanya buat apa dan bisa mendapatkan uang dari blogger, bagi orang awam mungkin platfrom blogger ini tidak lah berguna amat di kalian, beda kalau kalian sudah terjun di dunia blogger ini tentu blogger adalah sebuah platfrom ngeblog yang di sediakan oleh google bagi blog pemula. 
 
-Terimakasih sudah menyempatkan diri untuk membaca about me.
+awal saya mengenal blogger pada tahun 2013 yang mana itu ada tugas sekolah yang harus membuat blog pribadi, dari situ saya mulai belajar mengenai dunia perbloggingan. 
 
-Ini artinya, kamu tertarik untuk mengenal lebih dekat tentang saya. Hehe
+tidak hanya belajar menulis akan tetapi kalian harus belajar mengenai HTML, CSS dan Javascript supaya blog kalian bisa dioprek menjadi lebih indah lagi tampilan blog nya. 
 
-Saya sebenarnya seorang introvert, ini berdasarkan hasil [tes 16Personalities](https://www.16personalities.com/infp-personality).
-Suka belajar hal-hal baru dan kadang membagikannya dalam tulisan.
+dengan blog yang indah tentu akan membuat para pengunjung yang datang akan semakin betah dan penasaran, akan tetapi konten lah nomor satu nya. 
 
-Bidang utama yang saya geluti saat ini adalah IT, lebih spesifiknya di Software Engineering.
-Walaupun begitu, saya terbuka untuk belajar hal baru di luar bidang tersebut.
-Curiosity mendorong saya untuk belajar apa pun itu, walaupun *useless* dan nggak akan dipakai di kerjaan.
+apabila kalian ingin menghubungi saya bisa melalui kontak di blog saya ini misal nya mau ajak ngopi, atau berbicara tentang dunia blogger dan menulis siap di celling. 
 
-Menurut saya, walaupun *useless* belajar itu:
+selain menulis di blog saya juga aktif di editing video, dan youtube pada bulan kemaren alhamdulillah bisa menjadi bagian dari Creator Capcut dimana kalian bisa membuat template dan mendapatkan penghasilan dari sana. 
 
-- Bukan karena mau dapat nilai saat ujian;
-- Bukan karena akan dipakai di kerjaan;
-- Bukan karena tuntutan orang atau flexing (jadi orang pinter).
+## Migrasi ke Hugo
 
-Tapi belajar karena merasa fun aja dan *curios*.
+Setalah lama diblogger akhir nya saya memutuskan untuk pindah ke Hugo yang mana salah satu platfrom ngeblog yang populer. 
 
-## Saya dan Desain
+Saya juga menggunakan Cloudflare Page yang terintegrasi dengan Github, jadi meski ngeblog melalui handphone pun tidak lah sangat kesulitan. 
 
-Sebenarnya saat SD saya punya hobi menggambar. Karena itu, saya suka hal-hal berbau seni.
-Saat awal belajar komputer, saya malah tertarik belajar Photoshop. Setelah mempelajari Ms. Office.
+## Blog ini Kedepannya
 
-Waktu SMP sudah main Photosop 6, tapi nggak tau cara pakainya.
-Saat SMK dipelajari lagi dan mulai tertarik dengan dunia desain grafis.
+Karena banyak yang belum menggunakan Hugo ini jadi kemungkinan tutorial selama belajar Hugo ini akan di share di blog ini, jadi apabila menemukan tutorila terbaru langsung akan saya share di blog ini. 
 
-Tools desain yang pernah saya gunakan: Photosop, CorelDraw, GIMP, Inkscape, Figma, Krita, dll.
-
-Kalau saat ini saya sih nggak peduli mau pakai tools apa, yang penting adalah bisa menerapkan prinsip desain
-dan punya nilai seni hehe.
-
-Selain desain grafis, saya juga belajar desain UI/UX yang ternyata dunia yang sangat berbeda dengan desain grafis.
-Desain UI/UX nggak sekedar desain yang indah, tapi juga harus *solving problem*.
-
-## Saya dan Linux
-
-Saya pengguna setia Linux sejak Juni 2011. Distro Linux yang saya install pertama kali adalah Debian.
-
-![Screenshot Debian 2011](/img/about/debian-2011.jpg)
-
-Seiring berjalannya waktu, saya gonta-ganti Distro. Pernah pakai Ubuntu, Linux Mint, ElementaryOS, Backtrack, Kali Linux,
-Kubuntu, Fedora, dll. 
-
-Hingga saat ini masih pakai Linux. Sepertinya saya tidak bisa lepas dari Linux, karena Linux sangat powerful untuk membantu
-pekerjaan saya.
-
-## Saya dan Programming
-
-Awal mulai belajar coding waktu SMK, waktu itu belajar HTML dan juga Pascal.
-Pascal diajarin di mata pelajaran tambahan di SMK. Tapi belum paham sama sekali tentang programming waktu itu.
-
-Saya tertarik dengan dunia Blog waktu SMK. Ini mengantarkan saya untuk belajar tentang web development.
-Mulai dari belajar HTML, CSS, JS, PHP, dll.
-
-Akhirnya karena tertarik belajar web development, saya melanjutkan kuliah mengambil jurusan Ilmu Komptuer atau Teknik Informatika.
-
-Sejak saat itu, mulai paham dengan konsep programming. Hingga saat ini masih terus belajar dan membagikan apa yang sudah dipelajari di [Petani Kode](https://www.petanikode.com).
-
-Bahasa pemrograman yang pernah saya coba dan pelajari: Java, Javascript, C, C++, C#, Python, PHP, Typescript, Kotlin, Pascal, Go, Vala, Rust, Solidity, Ruby.
-
-## Mau tau apa lagi?
-
-Sekian yang bisa saya ceritakan. Kalau mau tau lebih banyak, mari berteman! 🤝
-
-Kamu bisa menghubungi saya via email `web@ardianta.com`.
+Semoga betah di blog ini
